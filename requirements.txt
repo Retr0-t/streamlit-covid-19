@@ -19,14 +19,14 @@ fsspec==2024.10.0
 gitdb==4.0.11
 GitPython==3.1.43
 idna==3.10
-ipykernel==6.29.5
-ipython==8.29.0
+ipykernel==6.29.5  # Jika diperlukan untuk notebook, jika tidak bisa dihapus
+ipython==8.29.0  # Jika diperlukan untuk notebook, jika tidak bisa dihapus
 jedi==0.19.2
 Jinja2==3.1.4
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
-jupyter_client==8.6.3
-jupyter_core==5.7.2
+jupyter_client==8.6.3  # Jika diperlukan untuk notebook, jika tidak bisa dihapus
+jupyter_core==5.7.2  # Jika diperlukan untuk notebook, jika tidak bisa dihapus
 kiwisolver==1.4.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
@@ -38,7 +38,7 @@ mpmath==1.3.0
 narwhals==1.17.0
 nest-asyncio==1.6.0
 networkx==3.4.2
-numpy==2.1.3
+numpy==1.25.2
 nxviz==0.7.4
 opencv-python==4.10.0.84
 packaging==24.2
