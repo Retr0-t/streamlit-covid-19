@@ -1,6 +1,4 @@
-# Tambahkan setuptools untuk distutils
 setuptools==75.6.0
-pip --upgrade
 altair==5.5.0
 asttokens==2.4.1
 attrs==24.2.0
