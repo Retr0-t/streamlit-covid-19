@@ -1,3 +1,6 @@
+# Tambahkan setuptools untuk distutils
+setuptools==75.6.0
+pip --upgrade
 altair==5.5.0
 asttokens==2.4.1
 attrs==24.2.0
@@ -19,14 +22,14 @@ fsspec==2024.10.0
 gitdb==4.0.11
 GitPython==3.1.43
 idna==3.10
-ipykernel==6.29.5  # Jika diperlukan untuk notebook, jika tidak bisa dihapus
-ipython==8.29.0  # Jika diperlukan untuk notebook, jika tidak bisa dihapus
+ipykernel==6.29.5
+ipython==8.29.0
 jedi==0.19.2
 Jinja2==3.1.4
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
-jupyter_client==8.6.3  # Jika diperlukan untuk notebook, jika tidak bisa dihapus
-jupyter_core==5.7.2  # Jika diperlukan untuk notebook, jika tidak bisa dihapus
+jupyter_client==8.6.3
+jupyter_core==5.7.2
 kiwisolver==1.4.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
